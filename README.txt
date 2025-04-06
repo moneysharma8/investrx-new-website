@@ -1,0 +1,1 @@
+Instructions to deploy InvestrX on Vercel and GitHub.
